@@ -91,10 +91,10 @@ C_tb (CARRY output)
 📸 Waveform Screenshot
 <img width="1920" height="1200" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/e9085880-0a02-44fa-9843-8d81fdf1c02f" />
 
-📸 RTL Schematic
+📸 Synthesized Schematic
 <img width="1920" height="1200" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/cae427f4-f0eb-46b2-a8f9-45ab0ccdd3f4" />
 
-📸 Synthesized Schematic
+📸 RTL Schematic
 <img width="1920" height="1200" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/c6565ff2-e8c8-43b3-9fb3-94d285691404" />
 
 
